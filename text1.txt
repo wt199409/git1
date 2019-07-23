@@ -4,5 +4,11 @@ the second line
 the third line
 the 4fourth line
 the 5fifth line 
+the seventh line
+<<<<<<< .mine
 the sixth line
 the seventh line
+=======
+the 6sixth line
+
+>>>>>>> .theirs
