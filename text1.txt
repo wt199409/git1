@@ -12,4 +12,6 @@ the seventh line
 the 6sixth line
 
 >>>>>>> .theirs
+
 xindedx
+xinde
