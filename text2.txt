@@ -1,2 +1,5 @@
-second txt
-disanh
+disanh第三行<<<<<<< .mine
+
+=======
+第三行
+>>>>>>> .theirs
