@@ -15,6 +15,4 @@ the 6sixth line
 
 xindedx
 xinde啊
-本地加的远程加的新行
-
-远程
+本地远程
