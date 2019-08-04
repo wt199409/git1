@@ -3,4 +3,8 @@ disanh第三行<<<<<<< .mine
 =======
 第三行
 >>>>>>> .theirs
+<<<<<<< Updated upstream
 测试解决冲突
+=======
+能解决冲突吗
+>>>>>>> Stashed changes
